@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taha-lokhan
+- 👋 Hi, I’m taha-lokhan
 -  I'm currently working in cyber domain
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on projectes which includes python
